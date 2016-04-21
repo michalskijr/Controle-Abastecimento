@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Alterar" android:id="@+id/mnAlterar">Alterar</item>
+    <item android:title="Deletar" android:id="@+id/mnDeletar">Deletar</item>
+    <item android:title="Informações" android:id="@+id/mnInformacoes">Informações</item>
+
+</menu>

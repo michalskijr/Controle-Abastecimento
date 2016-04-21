@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Controle</string>
+    <string name="title_activity_cad_veiculo">Cadastro do Veículo</string>
+
+    <string name="lbCod">Código</string>
+    <string name="lbMarca">Marca</string>
+    <string name="lbModelo">Modelo</string>
+    <string name="lbPlaca">Placa</string>
+    <string name="lbKmInicial">KM Inicial</string>
+    <string name="lbCapTanque">Capacidade do tanque</string>
+    <string name="lbDescricao">Descrição</string>
+
+    <string name="lbData">Data</string>
+    <string name="lbQtnLitros">Qt. Litros</string>
+    <string name="lbVlTotal">Valor Total</string>
+    <string name="lbKmAtual">KM Atual</string>
+    <string name="lbCombustivel">Combustível</string>
+    <string name="lbPosto">Posto</string>
+
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnListar">Listar</string>
+</resources>
